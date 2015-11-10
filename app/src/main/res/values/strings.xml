@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Reddit Client</string>
+    <string name="empty">There is no entries</string>
+    <string name="entry_details">sent %1$s by %2$s</string>
+    <string name="entry_comments">%1$s comments</string>
+    <string name="button_ok">Ok</string>
+    <string name="error_connection">There was a connection error.</string>
+    <string name="error_app">There was an application error.</string>
+    <string name="error_service">There was a server error.</string>
+    <string name="action_save">Save</string>
+    <string name="notification_download_tile">Picture Download</string>
+    <string name="notification_download_progress">Download in progress</string>
+    <string name="notification_download_finished">Download complete</string>
+    <string name="notification_download_fail">Download Fail</string>
+</resources>

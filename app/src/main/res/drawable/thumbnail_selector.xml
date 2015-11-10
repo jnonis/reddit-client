@@ -1,0 +1,9 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+          android:enterFadeDuration="50"
+          android:exitFadeDuration="150">
+    <item android:drawable="@color/black_54"
+          android:state_pressed="true"/>
+    <item android:drawable="@color/black_54"
+          android:state_enabled="true" android:state_focused="true"/>
+    <item android:drawable="@color/transparent"/>
+</selector>
